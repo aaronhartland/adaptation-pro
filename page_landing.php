@@ -2,7 +2,7 @@
 /**
  * This file adds the Landing template to the Adaptation Pro Theme.
  *
- * @author StudioPress
+ * @author Aaron Hartland
  * @package Adaptation Pro
  * @subpackage Customizations
  */

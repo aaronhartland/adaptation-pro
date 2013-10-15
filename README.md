@@ -1,6 +1,6 @@
 === Adaptation Pro Theme ===
 
-Github project link: ...brb
+Github project link: https://github.com/aaronhartland/adaptation-pro
 
 
 === Installation Instructions ===
